@@ -13,7 +13,7 @@ import MapView, { Marker, Circle } from 'react-native-maps';
 import { getAuth } from 'firebase/auth';
 import { getFirestore, doc, setDoc, getDoc } from 'firebase/firestore';
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyBj5xRqTqpzGrOXSxkFfwJULNwQb2yRA3E";
+const GOOGLE_MAPS_API_KEY = "";
 
 const SetGeofenceScreen = ({ route, navigation }) => {
   const { patientId } = route.params;

@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:569148971593:android:8133ad36ff510f6d6bbd98",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.wasikan.AMS"
         }
