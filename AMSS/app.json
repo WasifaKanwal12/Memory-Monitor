@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "AMSS",
+    "slug": "AMS",
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logof.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "We need your location to help with patient location.",
+        "NSLocationAlwaysUsageDescription": "We need your background location to track patients."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logof.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.wasikan.AMS",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBj5xRqTqpzGrOXSxkFfwJULNwQb2yRA3E" 
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd48f928-468f-4028-97f9-e647dfb6b530"
+      }
+    }
+  }
+}

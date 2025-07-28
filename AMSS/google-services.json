@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569148971593",
+    "project_id": "amsystem-33045",
+    "storage_bucket": "amsystem-33045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569148971593:android:8133ad36ff510f6d6bbd98",
+        "android_client_info": {
+          "package_name": "com.wasikan.AMS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtU6pvq5jQRMdHyEfURpVq1yP8nr96qQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
