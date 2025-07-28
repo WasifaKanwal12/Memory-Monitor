@@ -167,31 +167,6 @@ FIREBASE_APP_ID=your_app_id
 - Location-based alerts
 - Emergency notifications
 
-## 🔒 Security Features
-
-- Firebase Authentication
-- Secure data transmission
-- Role-based permissions
-- Encrypted storage
-- Location privacy controls
-
-## 📊 Performance Optimizations
-
-- Lazy loading of components
-- Image optimization
-- Efficient state management
-- Background task optimization
-
-## 🧪 Testing
-
-```bash
-# Run tests
-npm test
-
-# Run with coverage
-npm run test:coverage
-```
-
 ## 📦 Building for Production
 
 ### Android
@@ -199,48 +174,5 @@ npm run test:coverage
 expo build:android
 ```
 
-### iOS
-```bash
-expo build:ios
-```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation
-
-## 🙏 Acknowledgments
-
-- React Native community
-- Expo team for the excellent development platform
-- Firebase for backend services
-- All contributors and testers
-
-## 📈 Future Enhancements
-
-- [ ] Voice commands and speech recognition
-- [ ] Advanced AI-powered memory assistance
-- [ ] Integration with medical devices
-- [ ] Multi-language support
-- [ ] Offline functionality
-- [ ] Advanced analytics and reporting
-- [ ] Family member access portal
-- [ ] Integration with healthcare providers
-
----
-
-**Note**: This application is designed for healthcare purposes and should be used in accordance with medical guidelines and privacy regulations. 
