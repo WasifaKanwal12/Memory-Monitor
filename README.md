@@ -1,4 +1,4 @@
-# AMSS - Alzheimer's Memory Support System
+# AMSS - Alzheimer's Monitoring and Support System
 
 A comprehensive React Native mobile application designed to support patients with Alzheimer's disease and their caregivers through memory enhancement, location tracking, and cognitive games.
 
